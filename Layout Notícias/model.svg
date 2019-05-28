@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    enable-background="new"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="model.svg"
    inkscape:export-filename="C:\Users\George Moreno\Desktop\Bolsa\Moldes\model.png"
    inkscape:export-xdpi="96"
@@ -160,11 +160,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="534.1288"
-     inkscape:cy="589.45052"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="577.09616"
+     inkscape:cy="531.88907"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
      inkscape:snap-bbox="true"
@@ -176,10 +176,33 @@
      inkscape:snap-intersection-paths="false"
      inkscape:snap-nodes="true"
      inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1080"
+       id="guide70"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="285.75,0"
+       orientation="-1080,0"
+       id="guide72"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="285.75,285.75"
+       orientation="0,-1080"
+       id="guide74"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,285.75"
+       orientation="1080,0"
+       id="guide76"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -207,7 +230,7 @@
        height="508"
        width="285.75"
        clip-path="url(#clipPath847-5)"
-       transform="translate(0,-11.249983)" />
+       transform="translate(565.37076,-104.82173)" />
     <image
        style="display:inline"
        y="-99.875008"
@@ -304,7 +327,7 @@
            height="387.89856"
            x="-678.82251"
            y="1273.9493" /></flowRegion><flowPara
-         id="flowPara865"></flowPara></flowRoot>  </g>
+         id="flowPara865" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -329,8 +352,8 @@
        id="rect826-3"
        width="285.75"
        height="285.75"
-       x="-2.0428104e-13"
-       y="-1.7053026e-13" />
+       x="-2.0605739e-13"
+       y="1.9624379e-06" />
   </g>
   <g
      inkscape:groupmode="layer"
